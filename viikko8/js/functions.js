@@ -1,6 +1,6 @@
-const url = 'https://api.openweathermap.org/data/3.0/weather?'
+const url = 'https://api.openweathermap.org/data/2.5/weather?'
 const icon_url = 'http://openweathermap.org/img/wn/'
-const api_key = '072831f8834992b60e65d398f17ce818'
+const api_key = ''
 
 const temp_span = document.querySelector('#temp')
 const speed_span = document.querySelector('#speed')
